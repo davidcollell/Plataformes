@@ -1,0 +1,5 @@
+{
+  "name": "Watchlist Tracker",
+  "description": "Una aplicació per fer un seguiment de les pel·lícules i sèries que vols veure o que ja has vist, impulsada per Gemini.",
+  "requestFramePermissions": []
+}
